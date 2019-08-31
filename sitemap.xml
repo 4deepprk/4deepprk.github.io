@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://4deepprk.github.io/about/</loc>
+    <lastmod>2019-08-31T20:17:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://4deepprk.github.io/</loc>
+    <lastmod>2019-08-31T20:17:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://4deepprk.github.io/blogs/ai-for-everyone/</loc>
+    <lastmod>2019-08-31T20:08:41+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://4deepprk.github.io/blogs/</loc>
+    <lastmod>2019-08-31T20:08:41+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://4deepprk.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://4deepprk.github.io/series/</loc>
+  </url>
+  
+  <url>
+    <loc>https://4deepprk.github.io/tags/</loc>
+  </url>
+  
+</urlset>

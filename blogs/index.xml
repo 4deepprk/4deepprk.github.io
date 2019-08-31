@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on SCIENGAI</title>
+    <link>https://4deepprk.github.io/blogs/</link>
+    <description>Recent content in Blogs on SCIENGAI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 31 Aug 2019 20:08:41 +0530</lastBuildDate>
+    
+	<atom:link href="https://4deepprk.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AI for Everyone</title>
+      <link>https://4deepprk.github.io/blogs/ai-for-everyone/</link>
+      <pubDate>Sat, 31 Aug 2019 20:08:41 +0530</pubDate>
+      
+      <guid>https://4deepprk.github.io/blogs/ai-for-everyone/</guid>
+      <description>AI for everyone Welome to my first post. Have fun learning.
+print(&amp;lsquo;&amp;ldquo;hello ai&amp;rdquo;)</description>
+    </item>
+    
+  </channel>
+</rss>
